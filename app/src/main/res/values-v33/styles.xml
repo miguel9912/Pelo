@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="more" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/more</item>
+        <item name="backgroundTint">@color/black</item>
+        <!--  <item name="android:textColor">@color/my_custom_button_text_color</item>-->
+    </style>
+
+</resources>
+

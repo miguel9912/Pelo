@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pelo</string>
+    <string name="ejemplo">Este es un texto de ejemplo</string>
+    <string name="indicaciones_cliente1">Estas son las indicaciones del cliente 1</string>
+    <string name="indicaciones_cliente2">Estas son las indicaciones del cliente 2</string>
+    <string name="indicaciones_cliente3">Estas son las indicaciones del cliente 3</string>
+    <string name="indicaciones_cliente4">Estas son las indicaciones del cliente 4</string>
+
+</resources>
